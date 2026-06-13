@@ -7,17 +7,14 @@ An Arduino-based environmental monitoring system that displays temperature and h
 ### Device on a shelf
 
 ![Device on shelf](greenhouse-weather-station/photos/1.jpg)
-> *Place your photo here: device resting on a shelf*
 
 ### Device in hands (showing temperature)
 
 ![Device in hands (showing temperature)](greenhouse-weather-station/photos/2.jpg)
-> *Place your photo here: holding the device, showing the LCD screen*
 
 ### Device in hands (showing humidity)
 
 ![Device in hands (showing humidity)](greenhouse-weather-station/photos/3.jpg)
-> *Place your photo here: holding the device from another angle*
 
 ---
 
