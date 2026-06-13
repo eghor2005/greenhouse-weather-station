@@ -1,6 +1,26 @@
-# Environmental Monitor with Page Switching
+# Greenhouse Weather Station with Page Switching
 
 An Arduino-based environmental monitoring system that displays temperature and humidity on an LCD screen with potentiometer-controlled page switching and audible feedback.
+
+## Photos 
+
+### Device on a shelf
+
+![Device on shelf](greenhouse-weather-station/photos/1.jpg)
+> *Place your photo here: device resting on a shelf*
+
+### Device in hands (showing temperature)
+
+![Device in hands (showing temperature)](greenhouse-weather-station/photos/2.jpg)
+> *Place your photo here: holding the device, showing the LCD screen*
+
+### Device in hands (showing humidity)
+
+![Device in hands (showing humidity)](greenhouse-weather-station/photos/3.jpg)
+> *Place your photo here: holding the device from another angle*
+
+---
+
 
 ## Features
 
